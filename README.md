@@ -64,13 +64,6 @@ npm run build
 ```
 This generates an optimized build that can be hosted on platforms like **Vercel, Netlify, or AWS**.
 
-## 📌 Assignment Submission Instructions
-- **Ensure the application runs correctly.**
-- **Push your code to GitHub and share the repository link.**
-- **Package the project correctly, including dependencies and configuration files.**
-- **Submit your assignment in PDF format to** `aishwarya.rajvedi@zeotap.com`.
-- **Document your name in the PDF file.**
-- **Include the GitHub repository link in the PDF submission.**
-- **Ensure both assignments in the provided PDF are completed.**
+
 
 Thanks For Viewing my Submission
