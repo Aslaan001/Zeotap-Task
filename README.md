@@ -73,13 +73,4 @@ This generates an optimized build that can be hosted on platforms like **Vercel,
 - **Include the GitHub repository link in the PDF submission.**
 - **Ensure both assignments in the provided PDF are completed.**
 
-## 🤝 Contributing
-Pull requests are welcome! Please follow best practices when submitting changes.
-
-## 📝 License
-This project is licensed under the MIT License.
-
-## 🔗 GitHub Repository
-[GitHub Repository](https://github.com/your-username/zeosheets)
-
-Happy Coding! 🚀
+Thanks For Viewing my Submission
