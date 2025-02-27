@@ -30,7 +30,12 @@ Use these functions in the **fx formula bar**:
 - Supports **text, numbers, and dates**.
 - Restricts numeric cells to accept only numbers.
 
-### **5️⃣ Bonus Features**
+### **5️⃣ Security & Performance Enhancements**
+- **Input Validation**: Ensures data integrity by allowing only valid inputs.
+- **Optimized Rendering**: Uses efficient state management to improve performance.
+- **Secure Local Storage**: Saves data locally while ensuring data privacy.
+
+### **6️⃣ Bonus Features**
 - **Save & Load Spreadsheets** (via local storage).
 - **Data Visualization** (Charts & Graphs coming soon!).
 - **Advanced Formulas** (Supports relative & absolute references).
@@ -47,7 +52,7 @@ Use these functions in the **fx formula bar**:
 5. **Find & Replace:** Click the button, enter values, and apply changes.
 6. **Remove Duplicates:** Select a column and press the **Remove Duplicates** button.
 
-## 🛠 Installation
+## 🛠 Installation & Running the Application
 
 1. Clone the repository:
    ```sh
@@ -63,11 +68,29 @@ Use these functions in the **fx formula bar**:
    npm start
    ```
 
+## 📂 Deployment
+To deploy the application, use:
+```sh
+npm run build
+```
+This generates an optimized build that can be hosted on platforms like **Vercel, Netlify, or AWS**.
+
+## 📌 Assignment Submission Instructions
+- **Ensure the application runs correctly.**
+- **Push your code to GitHub and share the repository link.**
+- **Package the project correctly, including dependencies and configuration files.**
+- **Submit your assignment in PDF format to** `aishwarya.rajvedi@zeotap.com`.
+- **Document your name in the PDF file.**
+- **Include the GitHub repository link in the PDF submission.**
+- **Ensure both assignments in the provided PDF are completed.**
+
 ## 🤝 Contributing
 Pull requests are welcome! Please follow best practices when submitting changes.
 
 ## 📝 License
 This project is licensed under the MIT License.
 
-Happy Coding! 🚀
+## 🔗 GitHub Repository
+[GitHub Repository](https://github.com/your-username/zeosheets)
 
+Happy Coding! 🚀
