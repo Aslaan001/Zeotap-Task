@@ -54,19 +54,8 @@ Use these functions in the **fx formula bar**:
 
 ## 🛠 Installation & Running the Application
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/zeosheets.git
-   cd zeosheets
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Start the development server:
-   ```sh
-   npm start
-   ```
+1. Deployed Link
+   (https://sensational-kleicha-ad6600.netlify.app/)
 
 ## 📂 Deployment
 To deploy the application, use:
